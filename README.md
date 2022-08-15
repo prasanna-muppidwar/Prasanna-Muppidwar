@@ -1,7 +1,7 @@
 Hi 👋 My name is Prasanna Muppidwar
 ===================================
 
-Junior Engineer
+Student
 ---------------
 
 I am a Student and a Tech Enthusiast continuously exploring various tech sectors...
